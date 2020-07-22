@@ -1,6 +1,6 @@
 # Insight Into Boston and Seattle Airbnb Data
 Project Motivation<br />
-Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston and Seatle Airbnb datasets were collected and investigated. Three bisinuess questions were asked and answered:
+Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston and Seatle Airbnb datasets were collected and investigated. Three businuess questions were asked and answered:
 
   How Boston and Seattle Airbnb price behaves with the time?<br />
   What are the most important features which affect Airbnb rental price?<br />
